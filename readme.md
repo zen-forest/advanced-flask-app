@@ -1,5 +1,9 @@
 # Going deeper into Flask
 
-Tutorial link here: https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L
+[Deprecated]
+
+Decided to switch over to Django. Flask is great, but there is an opportunity cost to be aware of! 
+
+Peace & Love
 
 

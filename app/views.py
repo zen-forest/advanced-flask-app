@@ -8,4 +8,4 @@ def index():
 
 @app.route("/about")
 def about():
-  return "<h1 style='color: red' >This is a test!!</h1>"
+  return "<h1 style='color: red' >About</h1>"
