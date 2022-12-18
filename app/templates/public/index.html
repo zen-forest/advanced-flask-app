@@ -8,10 +8,12 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  
 
   <h1>Index!</h1>
   <p>This is the index file</p>
+  <img style="max-width:200px;" src="{{ url_for('static', filename='img/test.png')}}" alt="">
 
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 </body>
 </html>
